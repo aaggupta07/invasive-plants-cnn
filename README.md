@@ -7,7 +7,7 @@
 In this project, I aimed to develop the most effective convolutional neural network to classify 23 different species of plants (as their species), as well as whether or not they are invasive. 69,850 images were used in total, with 70% used for training, 15% used for validation, and 15% used for testing. The model was mainly developed over four major design versions, and achieved a final testing accuracy of 88.2%, and was able to classify the plant as invasive or native 94.7% of the time.
 
 *Research and findings are summarized in the report (.pdf). Code is downloadable via Jupyter Notebook (.ipynb).* <br>
-**The report will be released on April 30th, following the IJAS State Exposition**
+**The report will be released on April 30th.**
 
 
 ## Invasive Plants
